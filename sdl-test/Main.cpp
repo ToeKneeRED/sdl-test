@@ -68,7 +68,7 @@ bool loadMedia()
 {
 	bool success = true;
 
-	g_imageSurface = SDL_LoadBMP("toekneered-open eyes-smile.bmp");
+	g_imageSurface = SDL_LoadBMP("G:\\GitHub\\sdl-test\\snail.bmp");
 
 	if (!g_imageSurface)
 	{
